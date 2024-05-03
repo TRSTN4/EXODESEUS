@@ -51,24 +51,24 @@ To exit the CODE RED ALERT, a unanimous decision to deactivate the alert is requ
 
 ---
 
-5. **Threat Monitoring**
+5. **Threat Monitoring** \
 The Raspberry Pi continuously monitors for potential threats, including changes in DEFCON levels, 24/7. If a change to DEFCON 1 is detected, the system automatically activates the CODE RED ALERT across the platform without user intervention. Additionally, every first Monday of the month at 12 PM, the system conducts a monthly system-check test that runs for exactly 1 minute and 26 seconds to ensure all systems are operational.
 
 ![](https://github.com/TRSTN4/EXODESEUS_APP/blob/main/images/defcon_level_monitoring_and_response.png?raw=true)
 
 ---
 
-6. **Notifications**
+6. **Notifications** \
 Users can opt-in to receive specific notifications through the app. Upon enabling notifications, the app connects to Firebase and registers the user's Firebase Cloud Messaging (FCM) token. These tokens are then used to deliver notifications as needed.
 
 ---
 
-7. **Access and Security**
+7. **Access and Security** \
 EXODESÉUS is a closed application, accessible only via invite keys. This exclusivity ensures that personal details of the users are safeguarded as each invite key contains sensitive information about the invitee. The app is currently available to selected households only, maintaining privacy and security at the forefront of its operations. Despite its closed nature, the application architecture allows for rapid public release if the need arises.
 
 ---
 
-8. **Conclusion**
+8. **Conclusion** \
 EXODESÉUS integrates complex news delivery systems with robust emergency response functionalities, providing a unique and valuable service to its users. Through intelligent hardware integration and user interaction, the app ensures timely delivery of news and effective response in emergencies, all while maintaining a secure and exclusive environment for its users.
  
  
