@@ -33,6 +33,8 @@ Users can contribute their own news articles or messages through the app. This i
 
 4. **Emergency Response Features (SOS)** \
 \
+_* Currently for selected households only._ \
+\
 **3.1 SOS Functionalities** \
 The app includes an SOS tab that integrates with various hardware and services, including Hue lights and Sonos speakers, through Firebase. Each hardware has corresponding values in Firebase that is monitored by the Raspberry Pi. \
 \
