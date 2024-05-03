@@ -1,4 +1,4 @@
-## The EXODESÉUS App
+![](https://github.com/TRSTN4/EXODESEUS_APP/blob/main/images/exodeseus_banner.png?raw=true)
 
 **What is EXODESÉUS and how does it work?** \
 EXODESÉUS is a comprehensive application designed to deliver real-time news updates and offer emergency response features. This document outlines the app's core functionalities, including news retrieval and publication, emergency alert system, and user interaction with the platform. The app is available on both iOS and Android platforms, with the iOS version developed in Swift and the Android version in Kotlin.
