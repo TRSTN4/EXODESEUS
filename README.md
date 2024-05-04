@@ -84,32 +84,22 @@ EXODESÉUS integrates complex news delivery systems with robust emergency respon
 
 **App Preview**
 
--   **Browse Automatically Posted Articles**: View a continuous feed of war-related articles that are automatically uploaded to the app. Scroll to discover extensive content.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_FRONT.gif?raw=true" width="200" height="auto"> 
+-   **Browse Automatically Posted Articles**: View a continuous feed of war-related articles that are automatically uploaded to the app. Scroll to discover extensive content.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_FRONT.gif?raw=true" width="200" height="auto"> 
 
--   **Visual Examples of Articles**: Here are some visual examples to demonstrate how the articles are displayed within the app:
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW1.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW2.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW3.gif?raw=true" width="200" height="auto"> 
+-   **Visual Examples of Articles**: Here are some visual examples to demonstrate how the articles are displayed within the app:<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW1.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW2.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_PREVIEW3.gif?raw=true" width="200" height="auto"> 
 
--   **Create and Update Messages**: Users can instantly post messages within the app and update them anytime as new information becomes available. \
-  <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SEND_POST.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_EDIT_POST.gif?raw=true" width="200" height="auto">
+-   **Create and Update Messages**: Users can instantly post messages within the app and update them anytime as new information becomes available.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SEND_POST.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_EDIT_POST.gif?raw=true" width="200" height="auto">
     
--   **Filter Articles by Category**: At the top bar, select a specific category to filter the news feed, displaying only articles relevant to that category.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SLIDE_NAVIGATION.gif?raw=true" width="200" height="auto"> 
+-   **Filter Articles by Category**: At the top bar, select a specific category to filter the news feed, displaying only articles relevant to that category.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SLIDE_NAVIGATION.gif?raw=true" width="200" height="auto"> 
     
--   **Access Source Information**: The app automatically adds news and intel articles. To know more about the source of any article, users can click the 'Source' button located at the top right of each article.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOURCE.gif?raw=true" width="200" height="auto"> 
+-   **Access Source Information**: The app automatically adds news and intel articles. To know more about the source of any article, users can click the 'Source' button located at the top right of each article.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOURCE.gif?raw=true" width="200" height="auto"> 
     
--   **Manage Notifications by Category**: Within the notification tab, users can easily toggle on and off notifications for specific news categories according to their preferences.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_NOTIFICATIONS.gif?raw=true" width="200" height="auto"> 
+-   **Manage Notifications by Category**: Within the notification tab, users can easily toggle on and off notifications for specific news categories according to their preferences.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_NOTIFICATIONS.gif?raw=true" width="200" height="auto"> 
     
--   **Enable Red Alert on Hue Lights**: Use the SOS tab to activate a red alert across all connected Hue lights for immediate attention in emergencies. *(Only available to households with Philips Hue)* \
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_HUE_ACTIVATION.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_HUE_RED_ALERT.gif?raw=true" width="200" height="auto"> 
+-   **Enable Red Alert on Hue Lights**: Use the SOS tab to activate a red alert across all connected Hue lights for immediate attention in emergencies. *(Only available to households with Philips Hue)*<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_HUE_ACTIVATION.gif?raw=true" width="200" height="auto"> <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_HUE_RED_ALERT.gif?raw=true" width="200" height="auto"> 
  
--   **Activate Panic Mode on Sonos Devices**: In the SOS tab, users can initiate Panic Mode to play an SOS signal through all connected Sonos speakers, enhancing the urgency of alerts. *(Only available to households with Sonos devices)*
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SONOS_ACTIVATION.gif?raw=true" width="200" height="auto"> 
+-   **Activate Panic Mode on Sonos Devices**: In the SOS tab, users can initiate Panic Mode to play an SOS signal through all connected Sonos speakers, enhancing the urgency of alerts. *(Only available to households with Sonos devices)*<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SONOS_ACTIVATION.gif?raw=true" width="200" height="auto"> 
  
--   **Engage Comprehensive SOS Mode**: In critical situations, users can activate SOS mode which will enable all connected Hue and Sonos devices in panic mode, lock the app in SOS mode for all household members, and send notifications to ensure everyone is alerted.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOS.gif?raw=true" width="200" height="auto"> 
+-   **Engage Comprehensive SOS Mode**: In critical situations, users can activate SOS mode which will enable all connected Hue and Sonos devices in panic mode, lock the app in SOS mode for all household members, and send notifications to ensure everyone is alerted.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOS.gif?raw=true" width="200" height="auto"> 
  
--   **Log SOS Feature Activity**: When any SOS related feature is activated or deactivated, the app will record and log this activity for future reference.
- <img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOS_ALERTS.gif?raw=true" width="200" height="auto"> 
+-   **Log SOS Feature Activity**: When any SOS related feature is activated or deactivated, the app will record and log this activity for future reference.<br><img src="https://github.com/TRSTN4/EXODESEUS/blob/main/images/EXODESEUS_SOS_ALERTS.gif?raw=true" width="200" height="auto"> 
